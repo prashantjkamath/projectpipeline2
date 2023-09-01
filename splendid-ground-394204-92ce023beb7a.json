@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "splendid-ground-394204",
+  "private_key_id": "92ce023beb7a504fa73d65623c9fa723e1390a84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+7djIzP1RlWnx\ntJ4ozF9pxySPI2c1FTLYhFCwwVqGhH9hHiV4en7Oyz9cAIRyaF22hzd+rO5DWt3r\nYyz37ehsiGAaHUFIGgKBG23JK3aRkucoFKOG3MlFHUn7UGgdWwQ5K5FZS7XHBFOT\n+Ih2qGz9F72Fs/y0f4JOo4tytQYt0zYYGtq1zpKL7ZL0y+SgEyQoiZlHiPXhcDaA\nFlZjtM+4WoyN9WuD/oVICO8xJ6SAi7csc1v13kbmFeHwZhMuU1KIIExHEMzhXzwE\nE8KCO0RCo1cK7B7lUL+XcFek5xKk+pcPPbe/cyszHuTVP5ODIoOCmw0oZJlKzgeM\nScU7+FVdAgMBAAECggEAAsq66yIcPi9/ehpYXw5bWCeiVY7V+S+91kQGY19LHJZ0\nFQ56ISCMGX1dXXy1yG/Vlvqz3rVWp+4nOpmbqbsf3/O/5qyGLNtnLU4iX9kJMH3D\nxZFFBuQpnp9xWoHFfqW7EmmcWYBC6zhupHDzmztBRL4udksN0fHfYkOqoVsbo7CM\nLDYSZRfiU/hy9bWXsApmbn0jI3pxpdHvOwVncjpk2QzUZmaZM2mIMUm+cUC5BHWw\nL3uwMb8rvMwv/HPoBidLRvizvOm6jExzfl0pCzpBJ1TNYCrJEokjfBV6ru9TD0LH\n68d6WMiWdJ04OclOt6RF9JCEqiE9O2PPwYcIVzcfnQKBgQDmrxYXGkKBXTu7d22e\n/FHLnaapmJD3KKiulhC+aopBQY99xRxld4Sp/28xJu7RlITC9bPM6YAEdhX8UEMc\nSUtBlxQKp6QWf4AZYYJ6jCiPG+SMnpLrxds77/ZnbwEpOGi759FsY6O6kO/nIu6U\nS4BUiH1+tmEV1qgoWvWD7BjzQwKBgQDT4d/TxPeE44Mzm37YTaBzpDNxKpVj5MoZ\ngxic+A0m4HwiUAQjV1gJXfzrc/YlrwWfwT6e9b4eeOyLE0xrnVsHV89ACKNwp2ow\nCnwRoVAihLKriIg9Xbus0meoVLR+gS5vWc3aNB1KBhaL/IZ3cIjp7C/tXuUkXYTu\nauheoU/63wKBgH2Qxkxy/cpeznm/i0rj+z4DJUnhgt8WIaNOifSsF29n2UxTc56D\njRHfuU2e7JXl6tIYXfNnEkjbYiJCKhWGi9E7BCy8jaO1aSvnmNdN3XHwc9pbIov1\n2dzpRE2O7anbS58kkykVn3SZGgzNReIwqrzYwr6rVXNGsaetw0A4zmfzAoGAIuGL\nfIxvhyQBRGyz3B4jbQY6JcYx48kVcE/BrI21dJH+PZPYqozFhH1Blu13N0rx7RPe\nIEMqck/L+TVLHmhARRwylUMWzQPymkgPlsNsstIPq+eFLj0RGWlmATM4p57Sqygo\nmGR98eLAsXj4Fg+jqobkePpnVK5EpQ9ag8GgrhcCgYA8e1hoTMpkSj1OgsFgTYef\ngCuOLatfHoEYRfCsRzfotpU3XDV/KI9/G8kA2JjjjfGivyGxmyQXBax6/dN/zKVF\n2WLgQBUXMnEp3vFW3o6vsCZBOgcCZXgkHkWCCD1jikxNiv23sqz7sRoyqE2ijaAn\nypdfXMW2jJaz75naz8xnpQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@splendid-ground-394204.iam.gserviceaccount.com",
+  "client_id": "104082118311687533252",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40splendid-ground-394204.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
